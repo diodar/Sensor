@@ -1,6 +1,6 @@
-package app.Utils;
+package app.utils;
 
-import app.Sensors.Sensor;
+import app.sensors.Sensor;
 
 import java.util.ArrayList;
 import java.util.List;

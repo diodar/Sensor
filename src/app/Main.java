@@ -1,8 +1,8 @@
 package app;
 
-import app.Sensors.ColorSensor;
-import app.Sensors.WeightSensor;
-import app.Utils.Substance;
+import app.sensors.ColorSensor;
+import app.sensors.WeightSensor;
+import app.utils.Substance;
 
 public class Main {
 

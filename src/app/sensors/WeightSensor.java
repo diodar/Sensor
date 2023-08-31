@@ -1,7 +1,7 @@
-package app.Sensors;
+package app.sensors;
 
-import app.Utils.Indicator;
-import app.Utils.Substance;
+import app.utils.Indicator;
+import app.utils.Substance;
 
 public class WeightSensor extends Sensor {
 
